@@ -1,0 +1,1 @@
+# minergate-ubuntu.deb
